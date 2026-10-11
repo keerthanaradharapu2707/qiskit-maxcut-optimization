@@ -1,0 +1,8 @@
+# Prototype defaults only; validate against the official Challenge Kit.
+execution_mode: local_simulator
+qaoa_depth: 1
+shots: 1024
+optimizer_maxiter: 80
+seed: 42
+transpiler_optimization_level: 1
+exact_max_vertices: 20

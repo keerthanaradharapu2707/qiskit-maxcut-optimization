@@ -1,0 +1,47 @@
+{
+  "processor_id": "SYNTHETIC_B",
+  "label": "Processor B \u2014 synthetic ring",
+  "is_official": false,
+  "source": "Prototype fixture; replace with official Challenge Kit data.",
+  "num_qubits": 8,
+  "coupling_edges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      7
+    ],
+    [
+      7,
+      0
+    ]
+  ],
+  "basis_gates": [
+    "rz",
+    "sx",
+    "x",
+    "cx"
+  ]
+}
